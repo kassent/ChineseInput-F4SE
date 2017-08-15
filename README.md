@@ -1,2 +1,2 @@
-# ChineseInput_F4SE
+# ChineseInput-F4SE
 A F4SE plugin(DLL) which enables Chinese input in Fallout4.
